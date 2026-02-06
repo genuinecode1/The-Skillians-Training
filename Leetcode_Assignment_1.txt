@@ -1,0 +1,7 @@
+2535. Difference Between Element Sum and Digit Sum of an Array
+2108. Find First Palindromic String in the Array
+2367. Number of Arithmetic Triplets
+2006. Count Number of Pairs With Absolute Difference K
+1588. Sum of All Odd Length Subarrays
+2373. Largest Local Values in a Matrix
+1684. Count the Number of Consistent Strings
