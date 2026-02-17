@@ -1,0 +1,11 @@
+1929. Concatenation of Array
+1920. Build Array from Permutation
+1512. Number of Good Pairs
+2011. Final Value of Variable After Performing Operations
+1470. Shuffle the Array
+2942. Find Words Containing Character
+1672. Richest Customer Wealth
+1637. Widest Vertical Area Between Two Points Containing No Points
+2798. Number of Employees Who Met the Target
+1431. Kids With the Greatest Number of Candies
+2824. Count Pairs Whose Sum is Less than Target
